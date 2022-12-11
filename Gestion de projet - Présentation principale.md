@@ -9,7 +9,7 @@ ___ Mohammed
 
 ## Thème : Énergies 
 
-##Problématiques suggérées :
+## Problématiques suggérées :
 1. Comment peut-on transporter de l'énergie ?
 2. Quels sont les impacts de l'énergie nucléaire sur l'environnement ? 
 3. Quels sont les différents types d'énergie ?
@@ -18,30 +18,30 @@ ___ Mohammed
 6. Comment peut-on exploiter l'énergie solaire dans le domaine d'agriculture ?
 7. Comment choisir la source d'énergie pour alimenter un système de pompage selon les caractéristiques de région d’implantation ?
 
-##Problématique choisie : Comment choisir la source d'énergie pour alimenter un système de pompage selon les caractéristiques de région d’implantation ?
+## Problématique choisie : Comment choisir la source d'énergie pour alimenter un système de pompage selon les caractéristiques de région d’implantation ?
 
-##Diagramme « bête à cornes » :
+## Diagramme « bête à cornes » :
 !(https://github.com/Idris-AOUAMEUR/Energie-grp-7/blob/main/Morgane/B%C3%AAte%20%C3%A0%20cornes.png)
 
-###Note : Les pays étudiés seront : 
+### Note : Les pays étudiés seront : 
 -	L’Algérie (ensoleillement important)
 -	La France (ensoleillement moyen) 
 -	La Norvège (ensoleillement faible)
 
-##Tâches (à insérer dans un diagramme de Gant, qui sera fait à la prochaine séance) :
+## Tâches (à insérer dans un diagramme de Gant, qui sera fait à la prochaine séance) :
 >> Recherches sur les caractéristiques de chaque pays étudié :
 -	Données climatiques/énergétiques (qu'est-ce que le pays possède comme sources énergétiques, renouvelables ou pas)
 -	Données géographiques (on précisera le changement d'angle du soleil par exemple)
 -	Surface disponible pour pouvoir mettre en œuvre le système
-[ Mohammed ]
+**[ Mohammed ]**
 
->> Recherches sur les systèmes de pompage en général et leur structure [ Idris ]
+>> Recherches sur les systèmes de pompage en général et leur structure **[ Idris ]**
 
->> Recherches sur les différents types de panneaux solaires et de cellules photovoltaïques et leurs caractéristiques [ Morgane ]
+>> Recherches sur les différents types de panneaux solaires et de cellules photovoltaïques et leurs caractéristiques **[ Morgane ]**
 
->> Recherches sur les systèmes de production à base d'énergie éolienne [ Mahdi ]
+>> Recherches sur les systèmes de production à base d'énergie éolienne **[ Mahdi ]**
 
->> Recherches sur les groupes électrogènes [ Gaëtan ]
+>> Recherches sur les groupes électrogènes **[ Gaëtan ]**
 
-##Réalisation concrète :
+## Réalisation concrète :
 Simulateur qui, en fonction des lieux choisis et de leurs caractéristiques, compare les différentes sources d’alimentation pour le système de pompage afin de trouver la meilleure.
