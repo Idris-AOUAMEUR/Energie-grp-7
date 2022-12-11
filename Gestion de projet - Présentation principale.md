@@ -1,4 +1,4 @@
-# GESTION DE PROJET – Projet du groupe 7
+# GESTION DE PROJET – Projet du groupe 7 - Présentation principale
 
 ## Membres du groupe :
 - ALBISSON- -JEAN Morgane
@@ -7,8 +7,7 @@
 - LEMBERT Gaëtan
 - ___ Mohammed
 
-## Thème :
-L'énergie 
+## Thème : *L'énergie* 
 
 ## Problématiques suggérées :
 1. Comment peut-on transporter de l'énergie ?
@@ -19,10 +18,10 @@ L'énergie
 6. Comment peut-on exploiter l'énergie solaire dans le domaine d'agriculture ?
 7. Comment choisir la source d'énergie pour alimenter un système de pompage selon les caractéristiques de région d’implantation ?
 
-## Problématique choisie : Comment choisir la source d'énergie pour alimenter un système de pompage selon les caractéristiques de région d’implantation ?
+## Problématique choisie : *Comment choisir la source d'énergie pour alimenter un système de pompage selon les caractéristiques de région d’implantation ?*
 
 ## Diagramme « bête à cornes » :
-!(https://github.com/Idris-AOUAMEUR/Energie-grp-7/blob/main/Morgane/B%C3%AAte%20%C3%A0%20cornes.png)
+https://github.com/Idris-AOUAMEUR/Energie-grp-7/blob/main/Morgane/B%C3%AAte%20%C3%A0%20cornes.png
 
 ### Note : Les pays étudiés seront : 
 -	L’Algérie (ensoleillement important)
