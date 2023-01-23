@@ -30,7 +30,7 @@ https://github.com/Idris-AOUAMEUR/Energie-grp-7/blob/main/Morgane/B%C3%AAte%20%C
 
 ## Tâches (à insérer dans un diagramme de Gant, qui sera fait à la prochaine séance) :
 - Recherches sur les caractéristiques de chaque pays étudié (données climatiques/énergétiques (qu'est-ce que le pays possède comme sources énergétiques, renouvelables ou pas) ; données géographiques (on précisera le changement d'angle du soleil par exemple) ; surface disponible pour pouvoir mettre en œuvre le système
-**-> Mohammed**
+**-> Adam Djerou**
 
 - Recherches sur les systèmes de pompage en général et leur structure **-> Idris**
 
