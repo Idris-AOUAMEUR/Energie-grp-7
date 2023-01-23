@@ -5,7 +5,7 @@
 - AOUAMEUR Idriss
 - AOUDIA Mahdi
 - LEMBERT Gaëtan
-- ___ Mohammed
+- MAHAMAT NOUR Adam Djerou
 
 ## Thème : *L'énergie* 
 
