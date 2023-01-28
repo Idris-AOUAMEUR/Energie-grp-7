@@ -44,4 +44,4 @@ https://github.com/Idris-AOUAMEUR/Energie-grp-7/blob/main/Morgane/B%C3%AAte%20%C
 Simulateur qui, en fonction des lieux choisis et de leurs caractéristiques, compare les différentes sources d’alimentation pour le système de pompage afin de trouver la meilleure.
 
 # Adresse du site interface présentant notre projet :
-morganealbissonjean.github.io/index.html
+<https://morganealbissonjean.github.io/index.html>
