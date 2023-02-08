@@ -31,7 +31,7 @@
 ## Travail effectué :
 - Poursuite et terminaison du site internet
 - Avancement supplémentaire sur le simulateur
-- Design du diaporama sur lequel nous nous sommes appuyés pour présenter notre projet et son avancement à nos professeurs
+- Design du diaporama sur lequel nous nous sommes appuyés pour notre soutenance
 
 
 
