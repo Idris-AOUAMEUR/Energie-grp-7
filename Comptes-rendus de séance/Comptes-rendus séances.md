@@ -7,12 +7,14 @@
 -	Définition des tâches à réaliser, et de qui les réalisera, afin de pouvoir **mettre en place le diagramme de Gantt à la séance prochaine.**
 
 
+
 # Compte-rendu de la séance du lundi 12 décembre 2022 :
 
 ## Travail effectué :
 - Poursuite de nos recherches respectives
 - Création du diagramme de Gantt (susceptible d'évoluer au cours de projet)
 - Premières réflexions et recherches concernant la mise en oeuvre concrète de notre simulateur
+
 
 
 # Compte-rendu de la séance du lundi 16 janvier 2023 :
@@ -22,6 +24,8 @@
 - Début de la création du site
 - Début de la création du simulateur, morceau par morceau
 
+
+
 # Compte-rendu de la séance du lundi 23 janvier 2023 :
 
 ## Travail effectué :
@@ -30,7 +34,8 @@
 - Design du diaporama sur lequel nous nous sommes appuyés pour présenter notre projet et son avancement à nos professeurs
 
 
+
 # Compte-rendu de la séance du lundi 30 janvier 2023 :
 
-# Travail effectué :
+## Travail effectué :
 - Soutenance devant nos professeurs et camarades pour présenter notre projet et son état actuel.
